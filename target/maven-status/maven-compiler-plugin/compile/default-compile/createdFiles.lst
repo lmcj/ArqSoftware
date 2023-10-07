@@ -1,0 +1,12 @@
+dominio\Donante.class
+dominio\Adoptante.class
+dominio\CalculadoraSalario.class
+dominio\Fundacion.class
+conexiondb\CConexion.class
+dominio\Mascota.class
+dominio\SolicitudAdopcion.class
+dominio\Voluntario.class
+test\test.class
+dominio\Empleado.class
+dominio\EventoAdopcion.class
+dominio\MascotaAdoptada.class
